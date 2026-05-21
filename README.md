@@ -1,2 +1,25 @@
-# java-basic-reboot
-Java basic study for backend developer preparation
+# Java Basic Reboot
+
+백엔드 개발자 취업 준비를 위해 Java 기초부터 다시 공부하는 저장소입니다.
+
+## 목표
+
+- Java 기본 문법 복습
+- 객체지향 개념 정리
+- 직접 예제 코드 작성
+- 꾸준한 GitHub 기록
+
+## 공부 순서
+
+1. 변수와 자료형
+2. 연산자
+3. 조건문
+4. 반복문
+5. 배열
+6. 메서드
+7. 클래스와 객체
+8. 객체지향 기초
+
+## 기록 방식
+
+강의를 들은 뒤 예제 코드를 직접 작성하고, 이해한 내용을 주석과 README에 정리합니다.
