@@ -1,6 +1,6 @@
 package operator.ex;
 
-public class OperatorEx2 {
+public class OperationEx2 {
 
     public static void main(String[] args) {
         double val1 = 1.5;
