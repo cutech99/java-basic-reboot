@@ -1,6 +1,6 @@
 package class1.ex;
 
-public class ProductOrderMain {
+public class ProductOrderMain1 {
 
     public static void main(String[] args) {
         ProductOrder[] orders = new ProductOrder[3];
@@ -14,7 +14,7 @@ public class ProductOrderMain {
         ProductOrder order2 = new ProductOrder();
         order2.productName = "김치";
         order2.price = 5000;
-        order2.quantity = 2;
+        order2.quantity = 1;
         orders[1] = order2;
 
         ProductOrder order3 = new ProductOrder();
