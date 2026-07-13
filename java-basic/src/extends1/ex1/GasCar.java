@@ -6,7 +6,7 @@ public class GasCar {
         System.out.println("차를 이동합니다.");
     }
 
-    public void fillup() {
+    public void fillUp() {
         System.out.println("기름을 주유합니다.");
     }
 }
