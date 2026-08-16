@@ -2,7 +2,7 @@ package lang.object.poly;
 
 public class Car {
 
-    public void sound() {
-        System.out.println("붕붕");
+    public void move() {
+        System.out.println("자동차 이동");
     }
 }
